@@ -1,3 +1,7 @@
+drone_simulator
+
+Use Up-Down-Left-Right W-A-S-D to control Throttle Yew Roll Pitch
+
 ![Alt text](https://raw.github.com/skooter500/BGE/master/Logo/BGE_Logo_01.png)
 
 My scene graph based, C++ 3D engine that makes use of:
